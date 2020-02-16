@@ -1,0 +1,5 @@
+Sitemap: https://nerdsonwaves.com/sitemap.xml
+User-agent: *
+Disallow: /_framework/
+Disallow: /sample_data/
+Disallow: /assets/
